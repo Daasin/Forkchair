@@ -1,4 +1,6 @@
-# Lawnchair 12.1
+# Lawnchair 12.1 Forked 
+ 
+ [![Build debug APK](https://github.com/Daasin/Forkchair/actions/workflows/build_debug_apk.yml/badge.svg?event=deployment)](https://github.com/Daasin/Forkchair/actions/workflows/build_debug_apk.yml) 
 
 [![Build debug APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/build_debug_apk.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/build_debug_apk.yml)
 [![Build release APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/build_release_apk.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/build_release_apk.yml)
